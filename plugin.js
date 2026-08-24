@@ -24,7 +24,7 @@ window.RocheSellerAuction = {
 };
 
 (async function bootstrap() {
-  const repoBase = "https://raw.githubusercontent.com/您的GITHUB用户名/您的仓库名/main";// 修改！占位！修改！
+  const repoBase = "https://raw.githubusercontent.com/tsukikagehoshi/paimaihui/main";// 修改！占位！修改！
   
   
   
